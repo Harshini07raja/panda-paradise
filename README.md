@@ -1,32 +1,59 @@
-Panda Paradise
+# Panda Paradise
 
-Panda Paradise is a responsive handmade accessories web application built using React and Vite.
-The platform showcases bracelets, anti-tarnish chains, phone charms, and crochet products with a clean and modern interface.
+Panda Paradise is a responsive handmade accessories web application built using React and Vite.  
+The platform showcases customizable bracelets, anti-tarnish chains, phone charms, and crochet products with a clean and modern user interface.
 
-Features
+## Features
 
-Product listing with pricing
+- Product listing with images and pricing
+- Product tags (New / Best Seller / Limited)
+- Limited stock indicators
+- WhatsApp-based direct ordering
+- Smooth page transitions
+- Customer feedback page
+- Fully responsive design
 
-Product tags (New / Best Seller / Limited)
+## Tech Stack
 
-Limited stock indicators
+- React
+- Vite
+- Tailwind CSS
+- React Router
+- Framer Motion
 
-WhatsApp-based ordering
+## Installation
 
-Smooth page transitions
+Clone the repository:
 
-Customer feedback page
+git clone https://github.com//Harshini07rajapanda-paradise.git
 
-Responsive design
+Navigate to the project folder:
 
-Tech Stack
+cd panda-paradise
 
-React
+Install dependencies:
 
-Vite
+npm install
 
-Tailwind CSS
+Run development server:
 
-React Router
+npm run dev
 
-Framer Motion
+## Build
+
+To create a production build:
+
+npm run build
+
+To preview the production build:
+
+npm run preview
+
+## Deployment
+
+This project is deployed using Vercel.  
+Push changes to GitHub and Vercel automatically redeploys the application.
+
+## Author
+
+Developed as a frontend project for a handmade accessories business.
