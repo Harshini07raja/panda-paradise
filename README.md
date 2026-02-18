@@ -25,7 +25,7 @@ The platform showcases customizable bracelets, anti-tarnish chains, phone charms
 
 Clone the repository:
 
-git clone https://github.com//Harshini07rajapanda-paradise.git
+git clone https://github.com//Harshini07raja/panda-paradise.git
 
 Navigate to the project folder:
 
